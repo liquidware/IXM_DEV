@@ -8,14 +8,11 @@ a modular computing system, infinitely scalable and robust.
 QUICK START
 ===========
 
-1. Install the IDE on your Windows, Mac, or Linux System
+1. Install the IDE on your Windows, Mac, or Linux System. If you like using
+the command line, you can also build and upload the sources using apache-ant
+or Make build tools.
 
-If you like using the command line, you can also build and upload the sources
-using apache-ant or Make build tools.
-
-2. Write some code.
-
-The most basic sketches usually start out like this:
+2. Write some code. The most basic sketches usually start out like this:
 
      void setup() {
         /* Insert Setup code */
@@ -25,12 +22,11 @@ The most basic sketches usually start out like this:
         /* Main loop code */
      }
 
-3. Send the sketch to the IXM.
-
-Code is uploaded to the IXM through the USB serial connection by clicking the
-upload button in the IDE.
+3. Send the sketch to the IXM. Code is uploaded to the IXM through the USB serial
+connection by clicking the upload button in the IDE.
 
 MORE INFO
 =========
 
-
+The Illuminato X Machina is discussed on a [mailing list](http://groups.google.com/group/illuminato?lnk=srg) and
+a [collection of blogs](http://antipastohw.blogspot.com/) at antipastohw.
